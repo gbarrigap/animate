@@ -9,10 +9,10 @@
     "**/*.txt"
   ],
   "dependencies": {
-    "bootstrap": "2.3.2",
+    "bootstrap": ">= 2.3.2",
     "fastclick": "master"
   },
   "devDependencies": {
-    "bootstrap": "2.3.2"
+    "bootstrap": ">= 2.3.2"
   }
 }
